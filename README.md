@@ -29,7 +29,7 @@ bundle installed on your machine
 Terminal or similar to execute the program.
 
 
-## Clone project
+## Getting started
 
 - To get a local copy up and running follow these simple example steps.
 - Clone this repository with git clone ```https://github.com/uwadonat/Rails_ActiveRecord.git``` using your terminal or command line.
