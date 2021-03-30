@@ -1,37 +1,28 @@
 # Active_Records
 
 ## Table of Contents
-  <br />
-
+ 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Contributing](#contributing)
 * [Contact](#authors)
 * [Acknowledgements](#acknowledgements) 
 
-#
-<br />
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) </br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) 
 ![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-<br />
 
-#
-
-
-<!-- ABOUT THE PROJECT   -->
 ## About The Project
 
 This project is about an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it. 
 
 ## Screenshot Test
-#
+
 <p align="center">
   <img height="auto" src="Screenshot.png">
 </p>
 
-#
 
 ### Built With
 
@@ -47,9 +38,6 @@ Contributions make the open-source community such an amazing place to learn, ins
 Ruby & Rails installed on your local machine.
 bundle installed on your machine
 Terminal or similar to execute the program.
-
-
-## Getting Started
 
 
 ## Clone project
@@ -82,8 +70,6 @@ Terminal or similar to execute the program.
 - Github: [@uwadonat](https://github.com/uwadonat)
 - LinkerdIn: [@uwadonat](https://www.linkedin.com/in/uwadonat/)
 
-
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * [Microverse](https://www.microverse.org/)
